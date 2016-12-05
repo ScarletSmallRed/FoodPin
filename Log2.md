@@ -1,4 +1,4 @@
-## 2.1 Auto Layout
+### 2.1 Auto Layout
 
 ### 2.2 Use StackView from Component Library
 
