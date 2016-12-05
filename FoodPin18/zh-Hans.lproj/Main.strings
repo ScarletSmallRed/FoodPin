@@ -1,0 +1,69 @@
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "0qm-pX-duh"; */
+"0qm-pX-duh.title" = "项目";
+
+/* Class = "UILabel"; text = "Have come"; ObjectID = "1Fs-vb-AXH"; */
+"1Fs-vb-AXH.text" = "我来过";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "3bx-1x-qTY"; */
+"3bx-1x-qTY.text" = "类型";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7fS-g2-xmF"; */
+"7fS-g2-xmF.text" = "标签";
+
+/* Class = "UILabel"; text = "Good shop at any time to add"; ObjectID = "AEp-8w-Jbg"; */
+"AEp-8w-Jbg.text" = "好店随时选";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "AGb-g8-4d2"; */
+"AGb-g8-4d2.text" = "名称";
+
+/* Class = "UITextField"; placeholder = "Enter the type"; ObjectID = "CE8-8v-Abc"; */
+"CE8-8v-Abc.placeholder" = "输入类型";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jrg-U4-pN2"; */
+"Jrg-U4-pN2.text" = "标签";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "KhJ-rZ-Egt"; */
+"KhJ-rZ-Egt.text" = "地址";
+
+/* Class = "UINavigationItem"; title = "Restaurants"; ObjectID = "OD6-7h-ja3"; */
+"OD6-7h-ja3.title" = "商店列表";
+
+/* Class = "UINavigationItem"; title = "New Store"; ObjectID = "Q98-V6-Fjf"; */
+"Q98-V6-Fjf.title" = "新门店";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xlu-ZJ-XH8"; */
+"Xlu-ZJ-XH8.text" = "标签";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "fbQ-Ks-FpQ"; */
+"fbQ-Ks-FpQ.normalTitle" = "否";
+
+/* Class = "UITextField"; placeholder = "Enter the name"; ObjectID = "g0z-6x-bBS"; */
+"g0z-6x-bBS.placeholder" = "输入名称";
+
+/* Class = "UITextField"; placeholder = "Enter the location"; ObjectID = "hZT-TW-01f"; */
+"hZT-TW-01f.placeholder" = "输入地址";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "jdn-FM-6Gn"; */
+"jdn-FM-6Gn.normalTitle" = "是";
+
+/* Class = "UILabel"; text = "I have come"; ObjectID = "mHC-7Z-40y"; */
+"mHC-7Z-40y.text" = "我来过";
+
+/* Class = "UILabel"; text = "Personal Customization"; ObjectID = "sI4-OK-eF1"; */
+"sI4-OK-eF1.text" = "私人订制";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uH9-II-UIC"; */
+"uH9-II-UIC.text" = "标签";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "vKX-6i-fvs"; */
+"vKX-6i-fvs.title" = "项目";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wvf-gZ-kG5"; */
+"wvf-gZ-kG5.text" = "标签";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "xxm-TS-PNa"; */
+"xxm-TS-PNa.title" = "最喜欢";
+
+/* Class = "UIButton"; normalTitle = "Start now"; ObjectID = "zfk-8v-oRc"; */
+"zfk-8v-oRc.normalTitle" = "立即开始";
+

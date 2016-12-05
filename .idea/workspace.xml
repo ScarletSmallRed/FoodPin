@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1877f168-c882-42fb-8a51-6d8a9af38d01" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/about.imageset/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/about.imageset/about@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/about.imageset/about@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/barrafina.imageset/barrafina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/barrafina.imageset/barrafina@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/barrafina.imageset/barrafina@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/bourkestreetbakery.imageset/bourkestreetbakery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/bourkestreetbakery.imageset/bourkestreetbakery@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/bourkestreetbakery.imageset/bourkestreetbakery@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafedeadend.imageset/cafedeadend.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafedeadend.imageset/cafedeadend@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafedeadend.imageset/cafedeadend@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafeloisl.imageset/cafeloisl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafeloisl.imageset/cafeloisl@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafeloisl.imageset/cafeloisl@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafelore.imageset/cafelore.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafelore.imageset/cafelore@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafelore.imageset/cafelore@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/close.imageset/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/close.imageset/close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/close.imageset/close@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/confessional.imageset/confessional.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/confessional.imageset/confessional@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/confessional.imageset/confessional@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/discover.imageset/discover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/discover.imageset/discover@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/discover.imageset/discover@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/dislike.imageset/dislike.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/dislike.imageset/dislike@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/dislike.imageset/dislike@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/donostia.imageset/donostia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/donostia.imageset/donostia@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/donostia.imageset/donostia@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/favorite.imageset/favorite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/favorite.imageset/favorite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/favorite.imageset/favorite@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/fiveleaves.imageset/fiveleaves.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/fiveleaves.imageset/fiveleaves@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/fiveleaves.imageset/fiveleaves@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-1.imageset/foodpin-intro-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-1.imageset/foodpin-intro-1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-1.imageset/foodpin-intro-1@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-2.imageset/foodpin-intro-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-2.imageset/foodpin-intro-2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-2.imageset/foodpin-intro-2@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-3.imageset/foodpin-intro-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-3.imageset/foodpin-intro-3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-3.imageset/foodpin-intro-3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/forkeerestaurant.imageset/forkeerestaurant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/forkeerestaurant.imageset/forkeerestaurant@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/forkeerestaurant.imageset/forkeerestaurant@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/good.imageset/good.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/good.imageset/good@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/good.imageset/good@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/grahamavenuemeats.imageset/grahamavenuemeats.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/grahamavenuemeats.imageset/grahamavenuemeats@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/grahamavenuemeats.imageset/grahamavenuemeats@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/great.imageset/great.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/great.imageset/great@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/great.imageset/great@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/haighschocolate.imageset/haighschocolate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/haighschocolate.imageset/haighschocolate@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/haighschocolate.imageset/haighschocolate@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/heart.imageset/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/heart.imageset/heart@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/homei.imageset/homei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/homei.imageset/homei@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/homei.imageset/homei@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/logoxiaobo.imageset/logoxiaobo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/map.imageset/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/map.imageset/map@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/map.imageset/map@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/palominoespresso.imageset/palominoespresso.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/palominoespresso.imageset/palominoespresso@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/palominoespresso.imageset/palominoespresso@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/petiteoyster.imageset/petiteoyster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/petiteoyster.imageset/petiteoyster@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/petiteoyster.imageset/petiteoyster@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/photoalbum.imageset/photoalbum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/photoalbum.imageset/photoalbum@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/photoalbum.imageset/photoalbum@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/posatelier.imageset/posatelier.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/posatelier.imageset/posatelier@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/posatelier.imageset/posatelier@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/rating.imageset/rating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/rating.imageset/rating@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/rating.imageset/rating@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/royaloak.imageset/royaloak.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/royaloak.imageset/royaloak@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/royaloak.imageset/royaloak@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/tabitem-selected.imageset/tabitem-selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/tabitem-selected.imageset/tabitem-selected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/tabitem-selected.imageset/tabitem-selected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/teakha.imageset/teakha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/teakha.imageset/teakha@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/teakha.imageset/teakha@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/thaicafe.imageset/thaicafe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/thaicafe.imageset/thaicafe@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/thaicafe.imageset/thaicafe@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/traif.imageset/traif.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/traif.imageset/traif@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/traif.imageset/traif@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/upstate.imageset/upstate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/upstate.imageset/upstate@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/upstate.imageset/upstate@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/wafflewolf.imageset/wafflewolf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/wafflewolf.imageset/wafflewolf@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/wafflewolf.imageset/wafflewolf@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/AboutTableViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/AddRestaurantTableViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/about.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/barrafina.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/bourkestreetbakery.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafedeadend.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafeloisl.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/cafelore.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/close.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/confessional.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/discover.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/dislike.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/donostia.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/favorite.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/fiveleaves.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-1.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-2.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/foodpin-intro-3.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/forkeerestaurant.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/good.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/grahamavenuemeats.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/great.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/haighschocolate.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/heart.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/homei.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/logoxiaobo.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/map.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/palominoespresso.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/petiteoyster.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/photoalbum.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/posatelier.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/rating.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/royaloak.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/tabitem-selected.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/teakha.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/thaicafe.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/traif.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/upstate.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/wafflewolf.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Base.lproj/About.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/DetailTableViewCell.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/DetailTableViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Discovery.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/FoodPin18.xcdatamodeld/FoodPin18.xcdatamodel/contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/GuideContentViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/GuidePageViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/MapViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/MyPlayground.playground/Contents.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/MyPlayground.playground/contents.xcplayground" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/Restaurant1.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/RestaurantTableViewCell.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/RestaurantTableViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/ReviewViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FoodPin18/WebViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Podfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Restaurant+CoreDataClass.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Restaurant+CoreDataProperties.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoodPin18.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/FoodPin18.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoodPin18/AppDelegate.swift" afterPath="$PROJECT_DIR$/FoodPin18/AppDelegate.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/FoodPin18/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoodPin18/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/FoodPin18/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoodPin18/Info.plist" afterPath="$PROJECT_DIR$/FoodPin18/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoodPin18/ViewController.swift" afterPath="$PROJECT_DIR$/FoodPin18/ViewController.swift" />
+    </list>
+    <ignored path="4.5webview-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FoodPin18" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="756" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1877f168-c882-42fb-8a51-6d8a9af38d01" name="Default" comment="" />
+      <created>1479092517444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479092517444</updated>
+      <workItem from="1479092519686" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="756" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

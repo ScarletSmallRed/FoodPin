@@ -1,0 +1,65 @@
+/* Cancel action title */
+"Cancel" = "取消";
+
+/* Title of Delete Button */
+"Delete" = "删除";
+
+/* Feedback */
+"Feedback" = "反馈";
+
+/* Follow us */
+"Follow us" = "关注我们";
+
+/* Give us a score on App Store */
+"Give us a score on App Store" = "在App Store上给我们评分";
+
+/* Restaurant come? */
+"Have come?" = "到过吗？";
+
+/* HuaChuan College */
+"HuaChuan College" = "花川学院";
+
+/* I have already come */
+"I have already come" = "我已经来过了";
+
+/* I have not come yet */
+"I have not already come" = "我还没有来过";
+
+/* I have not come yet */
+"I have not come yet" = "我还没有来过";
+
+/* Restaurant Location */
+"Location" = "地址";
+
+/* MapViewController title */
+"Map" = "地图";
+
+/* Short name of Micro-blog Sina */
+"Microblog" = "微博";
+
+/* Restaurant name */
+"Name" = "名称
+";
+
+/* Share menu subtitle */
+"Please choose an social application" = "请选择一个社交应用";
+
+/* Scoring and feedback */
+"Scoring and feedback" = "评分和反馈";
+
+/* Title of Share Button */
+"Share" = "分享";
+
+/* Share menu title */
+"Share to: " = "分享到：";
+
+/* Restaurant Type */
+"Type" = "类型";
+
+/* Short name of WeChat Tecent
+   WeChat */
+"WeChat" = "微信";
+
+/* Web */
+"Web" = "网站";
+
